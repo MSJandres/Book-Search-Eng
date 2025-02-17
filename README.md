@@ -31,7 +31,7 @@ The Book Search Engine is a web application that allows users to search for book
    ```bash
    npm run develop
    ```
-2. Open your browser and navigate to `http://localhost:3000`
+2. Open your browser and navigate to `http://localhost:3001`
 
 ## Technologies Used
 - React
@@ -42,3 +42,7 @@ The Book Search Engine is a web application that allows users to search for book
 - GraphQL
 
 ## Live Website
+Please use the localhost:3001 I'm getting "Error 404" on live site
+https://bookysearchmjandres.netlify.app/
+
+
